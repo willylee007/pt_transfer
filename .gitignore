@@ -1,0 +1,5 @@
+# IDE - IntelliJ IDEA
+.idea/
+
+# Sensitive configuration file
+downloaders.json
